@@ -69,3 +69,16 @@ python app.py
 cd frontend
 npm install
 npm run dev
+
+---
+
+# 📌 Use Cases
+
+ThreatLens is especially relevant for:
+
+Financial institutions
+Account takeover prevention systems
+Fraud monitoring platforms
+SOC analyst dashboards
+Security analytics research projects
+ML-powered threat detection demonstrations
