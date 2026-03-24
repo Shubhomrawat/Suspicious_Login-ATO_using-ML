@@ -53,3 +53,19 @@ suspicious-login-detector/
     ├── index.html
     ├── package.json
     └── vite.config.js
+
+---
+
+# Step- 1: Backend Setup
+
+cd backend
+pip install -r requirements.txt
+python train_model.py
+python app.py
+
+---
+# Step- 2: Frontend Setup
+
+cd frontend
+npm install
+npm run dev
